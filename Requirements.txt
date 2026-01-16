@@ -1,0 +1,13 @@
+Requirements.txt 
+!pip install -r requirements.txt 
+import torch 
+import torchvision 
+import tensorflow as tf 
+import numpy 
+import cv2 
+import sklearn 
+import pandas 
+import matplotlib 
+import seaborn 
+import tqdm 
+print("All libraries installed successfully!") 
